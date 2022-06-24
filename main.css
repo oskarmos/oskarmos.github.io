@@ -1,0 +1,495 @@
+.mediaViewInfo {
+	--web-view-name: Main;
+	--web-view-id: Main;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Main;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Main {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Main;
+	--web-view-id: Main;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Layer_1 {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	left: -969px;
+	top: -271px;
+	overflow: visible;
+}
+#Text {
+	left: 107.362px;
+	top: 640.46px;
+	position: absolute;
+	overflow: visible;
+	width: 1747px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: TrainOne-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 197.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1.2px;
+}
+#Layer_2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Layer_1_copy {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_11 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#PERSONAL_PORTFOLIO {
+	left: 137.724px;
+	top: 31.974px;
+	position: absolute;
+	overflow: visible;
+	width: 1642px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NeueHaasDisplay-Mediu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 146.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.2px;
+}
+#PERSONAL_PORTFOLIO_copy_2 {
+	position: absolute;
+	width: 1800px;
+	height: 88px;
+	left: 59px;
+	top: 144px;
+	overflow: visible;
+}
+#Layer_3 {
+	position: absolute;
+	width: 1888px;
+	height: 133px;
+	left: 29px;
+	top: 61px;
+	overflow: visible;
+}
+#PERSONAL_PORTFOLIO_copy {
+	position: absolute;
+	width: 1792px;
+	height: 80px;
+	left: 63px;
+	top: 95px;
+	overflow: visible;
+}
+#Layer_4 {
+	position: absolute;
+	width: 1799px;
+	height: 331px;
+	left: 64px;
+	top: 321px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#Layer_6 {
+	position: absolute;
+	width: 1492px;
+	height: 56px;
+	left: 371px;
+	top: 265px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#Layer_9 {
+	position: absolute;
+	width: 347px;
+	height: 134px;
+	left: 1516px;
+	top: 321px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: menu.html;
+	cursor: pointer;
+}
+#Layer_7 {
+	position: absolute;
+	width: 458px;
+	height: 142px;
+	left: 535px;
+	top: 455px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#Layer_8 {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	left: -969px;
+	top: -271px;
+	overflow: visible;
+}
+#Shape_1 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 100;
+	shape-rendering: auto;
+}
+.Shape_1 {
+	overflow: visible;
+	position: absolute;
+	width: 132.312px;
+	height: 131.046px;
+	left: 1526.999px;
+	top: 320.78px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: menu.html;
+	cursor: pointer;
+}
+#Shape_1_copy {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 100;
+	shape-rendering: auto;
+}
+.Shape_1_copy {
+	overflow: visible;
+	position: absolute;
+	width: 132.313px;
+	height: 131.044px;
+	left: 1630.999px;
+	top: 323.782px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: menu.html;
+	cursor: pointer;
+}
+#Shape_1_copy_2 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 100;
+	shape-rendering: auto;
+}
+.Shape_1_copy_2 {
+	overflow: visible;
+	position: absolute;
+	width: 132.313px;
+	height: 131.044px;
+	left: 1730.998px;
+	top: 323.782px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: menu.html;
+	cursor: pointer;
+}
+#barcode {
+	position: absolute;
+	width: 471px;
+	height: 141px;
+	left: 64px;
+	top: 455px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#Layer_10 {
+	position: absolute;
+	width: 307px;
+	height: 56px;
+	left: 64px;
+	top: 265px;
+	overflow: visible;
+}
+#Layer_11 {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	left: -969px;
+	top: -271px;
+	overflow: visible;
+}
+#PROFESSIONAL_IDENTITY {
+	opacity: 0;
+	left: 84.547px;
+	top: 957.662px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: PI.html;
+	cursor: pointer;
+	line-height: 35.400001525878906px;
+	margin-top: -5.450000762939453px;
+	text-align: right;
+	font-family: NeueHaasDisplay-Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#FUTURE {
+	opacity: 0;
+	left: 1725.547px;
+	top: 958.662px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Future.html;
+	cursor: pointer;
+	line-height: 35.400001525878906px;
+	margin-top: -5.450000762939453px;
+	text-align: right;
+	font-family: NeueHaasDisplay-Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Text_ {
+	opacity: 0;
+	left: 895.887px;
+	top: 1036.509px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+	line-height: 35.400001525878906px;
+	margin-top: -5.450000762939453px;
+	text-align: right;
+	font-family: MS-Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#VISION {
+	opacity: 0;
+	left: 628.567px;
+	top: 959.662px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Vision.html;
+	cursor: pointer;
+	line-height: 35.400001525878906px;
+	margin-top: -5.450000762939453px;
+	text-align: center;
+	font-family: NeueHaasDisplay-Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#PAST {
+	opacity: 0;
+	left: 1216.567px;
+	top: 959.662px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Past.html;
+	cursor: pointer;
+	line-height: 35.400001525878906px;
+	margin-top: -5.450000762939453px;
+	text-align: center;
+	font-family: NeueHaasDisplay-Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#PRESENT {
+	opacity: 0;
+	left: 899.567px;
+	top: 959.662px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Present.html;
+	cursor: pointer;
+	line-height: 35.400001525878906px;
+	margin-top: -5.450000762939453px;
+	text-align: center;
+	font-family: NeueHaasDisplay-Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24.5px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Layer_503 {
+	position: absolute;
+	width: 870px;
+	height: 142px;
+	left: 993px;
+	top: 455px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#tan-vintage-paper-texture-35 {
+	mix-blend-mode: multiply;
+	display: none;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_021-2022 {
+	left: 1259.425px;
+	top: 475.649px;
+	position: absolute;
+	overflow: visible;
+	width: 562px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 116.5px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.4px;
+}
