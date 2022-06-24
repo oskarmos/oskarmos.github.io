@@ -19,7 +19,7 @@
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
-	background-color: rgba(255,255,255,1);
+	background-color: rgb(0, 0, 0);
 	overflow: hidden;
 	--web-view-name: Main;
 	--web-view-id: Main;
